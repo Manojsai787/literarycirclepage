@@ -1,0 +1,43 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background-image: url("backgroundlc10.jpg");
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat:no-repeat;
+  background-attachment: fixed;
+}
+
+     html {
+      font-size: 1.5vw;
+    }
+
+    body {
+      background-color: #333 ;
+      color:black;
+    }
+
+a {
+  color:orangered;
+}
+
+a:visited {
+  color:orange;
+}
+
+a:hover {
+  color:#239;
+}
+
+.dropcap {
+  float:left;
+  font-size:200%;
+  color:#cf142b;
+   margin : -13px 4px -13px 0;
+}
+  
+img {
+  display: block;
+  margin: 0;
+  border-radius: 50px;
+}
